@@ -1,0 +1,39 @@
+body{
+background:url("weatherpic.jpg")
+;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+h1{
+    color: rgb(86, 170, 226);
+    font-family: 'Dancing Script', cursive; 
+    padding-left: 50%;
+}
+
+h2{
+color: cornflowerblue;
+
+    font-family: 'Dancing Script', cursive; 
+
+}
+
+.list-group {
+    font-family: 'Dancing Script', cursive; 
+   font-size: 30px;
+}
+
+h3{
+    font-family: 'Dancing Script', cursive; 
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+h4{
+
+
+    font-family: 'Dancing Script', cursive; 
+   font-size: 30px;
+}
